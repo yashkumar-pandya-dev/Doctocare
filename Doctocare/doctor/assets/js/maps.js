@@ -21,8 +21,7 @@ var Maps = function () {
             lng: -77.03,
             title: 'Lima',
             details: {
-                database_id: 42,
-                author: 'HPNeo'
+                database_id: 42
             },
             click: function (e) {
                 if (console.log)
